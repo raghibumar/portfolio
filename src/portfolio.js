@@ -23,7 +23,7 @@ export const main = {
 export const aboutme = {
   imgLink: "https://i.imgur.com/gCuk8hO.jpeg",
   p1: "A Full Stack Developer, with strong administrative and communication skills, good attention to detail and with the ability to write efficient code using MERN Stack.",
-  p2: "I have been developing Web Apps for over 7 months now. Well versed in coding using Javascript and its frameworks.",
+  p2: "I am familiar with building the websites with HTML, CSS, Javascript, React for Front-end & Node, Express, MongoDB for Backend. I like to do project which includes problem solving as it helps me to learn.",
   p3: "As I grow and flourish as a Developer, one thing which keeps me going is my inquisitiveness for discovering new things every day.",
 };
 
@@ -112,12 +112,12 @@ export const whatido = {
 export const details = [
   {
     id: 1,
-    title: "Clone of Practo",
-    desc: "An informative website that provides online Doctor Consultant, Booking Appointments, Purchasing Medicines, Delivery of Varieties of Medical produts and  many more.  Tech Stack - HTML, CSS, Javascript.",
-    img: "https://pbs.twimg.com/media/FLuT0LzaIAcyZUq?format=jpg&name=900x900",
-    github: "https://github.com/AbhishekKumarJha3098/Practo_clone",
-    link: "https://drive.google.com/file/d/1HVRI-uq7e0DPzpaR9lhRCo9wtMpuT2xV/view?usp=sharing",
-    deploy: "https://karu555.github.io/practoClone/",
+    title: "Clone of Juicychemistry",
+    desc: "An Indian brand with 100% organic skin care products in India certified by Ecocert, Order online now in India for your best skin care and experience the proven results.  Tech Stack - HTML, CSS, Javascript.",
+    img: "https://i.imgur.com/eJ12o9E.png",
+    github: "https://github.com/JKAD02/Juicy-Chemistry",
+    link: "https://drive.google.com/file/d/1PQSZO3dQNBPcPDSFznjGWmDbFIzefNE_/view?usp=sharing",
+    deploy: "",
   },
   {
     id: 2,
@@ -132,8 +132,8 @@ export const details = [
 
 // Social Media Links
 export const links = [
-  "https://www.linkedin.com/in/karunesh-ranjan-6515211a0",
-  "https://github.com/Karu555",
-  "https://www.instagram.com/karunesh_ranjan/",
-  "https://twitter.com/karuneshranjan1",
+  "https://www.linkedin.com/in/abu-raghib-umar-933b58171/",
+  "https://github.com/raghibumar",
+  "https://www.instagram.com/raghibumar/",
+  "https://twitter.com/raghib_umar2",
 ];
