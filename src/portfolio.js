@@ -9,7 +9,7 @@ export const globalStyles = {
 };
 
 // Navigation Bar Name
-export const navbar_name = "";
+export const navbar_name = "Abu Raghib Umar";
 
 // Main Page
 export const main = {
@@ -54,7 +54,7 @@ export const whatido = {
       id: "3",
     },
     {
-      name: "Tailwind",
+      name: "Tailwind CSS",
       iconifyClassName: "logos:tailwindcss-icon",
       id: "4",
     },
@@ -64,41 +64,46 @@ export const whatido = {
       id: "5",
     },
     {
+      name: "ExpressJS",
+      iconifyClassName: "logos:express",
+      id: "6",
+    },
+    {
       name: "MongoDB",
       iconifyClassName: "logos:mongodb",
-      id: "6",
+      id: "7",
     },
 
     {
       name: "ReactJS",
       iconifyClassName: "vscode-icons:file-type-reactjs",
-      id: "7",
+      id: "8",
     },
     {
       name: "Redux",
       iconifyClassName: "logos:redux",
-      id: "8",
+      id: "9",
     },
 
     {
       name: "NPM",
       iconifyClassName: "logos:npm-icon",
-      id: "9",
+      id: "10",
     },
     {
       name: "VSCode",
       iconifyClassName: "vscode-icons:file-type-vscode",
-      id: "10",
+      id: "11",
     },
     {
       name: "PostMan",
       iconifyClassName: "logos:postman-icon",
-      id: "11",
+      id: "12",
     },
     {
       name: "Git",
       iconifyClassName: "bi:git",
-      id: "12",
+      id: "13",
     },
     // {
     //     name: "Vercel",
