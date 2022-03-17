@@ -26,8 +26,8 @@ const Contact = () => {
       <p className="copyright">
         Socializing and Connecting is really important, which leads to great
         ideas and major breakthroughs. <br />
-        You can contact me at the places mentioned above or You can connect me
-        at <b>raghibumar2@gmail.com</b> or You can call me at{" "}
+        You can contact me at the places mentioned above or connect me
+        at <b>raghibumar2@gmail.com</b> <br/> You can call me at{" "}
         <b>+91 7542904942</b>
       </p>
     </div>
