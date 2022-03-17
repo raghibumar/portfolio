@@ -26,7 +26,7 @@ export const aboutme = {
   imgLink: "https://i.imgur.com/gCuk8hO.jpeg",
   p1: "A Full Stack Developer, with strong administrative and communication skills, good attention to detail and with the ability to write efficient code using MERN Stack.",
   p2: "I am familiar with building the websites with HTML, CSS, Javascript, React for Front-end & Node, Express, MongoDB for Backend. I like to do project which includes problem solving as it helps me to learn.",
-  p3: "As I grow and flourish as a Developer, one thing which keeps me going is my inquisitiveness for discovering new things every day.",
+  p3: "I am looking forward to broad development experience and hands-on technical experience in a challenging role as a full stack web developer.",
 };
 
 // Skills
