@@ -1,8 +1,9 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 export const globalStyles = {
-  "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
+  // "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
+  // "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // the first one
   // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
-  // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
   "--p_color": "#00cdac",
   "--s_color": "#fff",
