@@ -1,9 +1,10 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 export const globalStyles = {
   // "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
-  // "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // the first one
   // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
-  "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  "--grad": "linear-gradient(to right, #4884ee 0%, #0cb8fa 100%)", //customized 2
+
   "--txtcolor": "#272341",
   "--p_color": "#00cdac",
   "--s_color": "#fff",
@@ -105,6 +106,11 @@ export const whatido = {
       name: "Git",
       iconifyClassName: "bi:git",
       id: "13",
+    },
+    {
+      name: "GitHub",
+      iconifyClassName: "akar-icons:github-fill",
+      id: "14",
     },
     // {
     //     name: "Vercel",
