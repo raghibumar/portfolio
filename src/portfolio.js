@@ -175,4 +175,5 @@ export const links = [
   "https://github.com/raghibumar",
   "https://www.instagram.com/raghibumar/",
   "https://twitter.com/raghib_umar2",
+  "https://medium.com/@raghibumar2",
 ];
