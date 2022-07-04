@@ -135,18 +135,6 @@ export const details = [
   },
   {
     id: 2,
-    title: "Clone of The Bowl Company",
-    desc: "Built a token based Authentication System, Worked in the product page, Connected all pages using HTML and CSS, Responsible for pushing codes to GitHub",
-    desc1: "A collaborative project built by a team of 6 executed in 7 days.",
-    img: "https://i.imgur.com/Prx1HQw.png",
-    link: "https://drive.google.com/file/d/1t5KZFosOGOCUN2I8KO2yEaSkoilvK4hU/view?usp=sharing",
-    github: "https://github.com/MadhanM282/the-bowl-company",
-    deploy: "http://the-bowl-company.vercel.app/",
-    techStack:
-      "Tech Stack: HTML | CSS | JavaScript | Node.js | Express Js | Mongo DB | Mongoose",
-  },
-  {
-    id: 3,
     title: "Clone of The Home Depot",
     desc: "Built the dynamic landing page, Users directly can add items in the cart page from landing page, Connected all pages to each other using HTML and CSS, Worked in the dynamic product page",
     desc1: "A collaborative project built by a team of 6 executed in 7 days.",
@@ -157,7 +145,7 @@ export const details = [
     techStack: "Tech Stack: HTML | CSS | JavaScript",
   },
   {
-    id: 4,
+    id: 3,
     title: "Clone of Mytheresa",
     desc: "Built the Landing page, header and footer, Connected all pages to each other using HTML and CSS, Built Product page dynamic and users can add items in the cart page and can do the payment also.",
     desc1: "An individual project executed in 7 days.",
@@ -166,6 +154,42 @@ export const details = [
     github: "https://github.com/raghibumar/MyTheresa",
     deploy: "https://my-theresa.vercel.app/",
     techStack: "Tech Stack: HTML | CSS | JavaScript",
+  },
+  {
+    id: 4,
+    title: "Clone of KindMeal",
+    desc: "Built the product page, Built the HotPics page, worked on the SignUp page. Responsible to connect all the pages in react and pushed the codes in GitHub",
+    desc1: "A collaborative project built by a team of 5 executed in 7 days.",
+    img: "https://i.imgur.com/jVy3Ubf.png",
+    link: "https://drive.google.com/file/d/17o6O7uwyjQhNoUKeEUq9ADnTWbSQmLsJ/view?usp=sharing",
+    github: "https://github.com/rishianand39/Kindmeal-clone.git",
+    deploy: "https://kindmeal-clone.netlify.app/",
+    techStack:
+      "Tech Stack: ReactJS | Redux | HTML | CSS | JavaScript | Node.js | Express Js | Mongo DB",
+  },
+  {
+    id: 5,
+    title: "Clone of Pinterest",
+    desc: "Built a token based Authentication system, User can see his name in the header after successful Login. Responsible for pushing the codes in github.",
+    desc1: "A collaborative project built by a team of 5 executed in 7 days.",
+    img: "https://i.imgur.com/Yd4OnQ0.png",
+    link: "https://drive.google.com/file/d/1gs4pgrEI422ff6fb4CHu_BYS75vZlEtY/view?usp=sharing",
+    github: "https://github.com/AmbaliyaDhruv/Pinterest-web-clone",
+    deploy: "https://pinterest-web-clone-ambaliyadhruv.vercel.app/",
+    techStack:
+      "Tech Stack: ReactJS | ExpressJS | NodeJS | JavaScript | MongoDB | Material UI",
+  },
+  {
+    id: 6,
+    title: "Clone of The Bowl Company",
+    desc: "Built a token based Authentication System, Worked in the product page, Connected all pages using HTML and CSS, Responsible for pushing codes to GitHub",
+    desc1: "A collaborative project built by a team of 6 executed in 7 days.",
+    img: "https://i.imgur.com/Prx1HQw.png",
+    link: "https://drive.google.com/file/d/1t5KZFosOGOCUN2I8KO2yEaSkoilvK4hU/view?usp=sharing",
+    github: "https://github.com/MadhanM282/the-bowl-company",
+    deploy: "http://the-bowl-company.vercel.app/",
+    techStack:
+      "Tech Stack: HTML | CSS | JavaScript | Node.js | Express Js | Mongo DB | Mongoose",
   },
 ];
 
